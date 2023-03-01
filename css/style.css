@@ -1,3 +1,8 @@
+#noticeBox {
+    border: 1px solid white;
+    text-align: center;
+}
+
 .rNav {
     position: fixed;
     right: 50px;
