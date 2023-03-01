@@ -1,5 +1,4 @@
 var START_PLAYER = {
-    popupDismissed = false,
     layerDisplay: {
         numClass: 'defNum',
     },
